@@ -1,4 +1,4 @@
-# Apibot-NLP
+# API BOT  NLTK
 A API desenvolvida com FastAPI e um motor de NLP com NLTK (Natural Language Toolkit) é uma solução que permite a criação de um serviço de processamento de linguagem natural de forma rápida e eficiente.
 
 FastAPI é um framework web de alto desempenho e fácil de usar, que permite a criação de APIs RESTful em Python. Ele possui uma sintaxe simples e intuitiva, facilitando a implementação de rotas, modelos de dados e endpoints.
